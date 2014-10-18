@@ -1,0 +1,9 @@
+Academica Pro Theme
+http://www.wpzoom.com/themes/academica-pro/
+ 
+CHANGELOG
+---------
+
+V 1.0 (18 March, 2013)
+	
+	- initial release
